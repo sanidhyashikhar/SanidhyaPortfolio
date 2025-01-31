@@ -174,7 +174,7 @@ function Home() {
           >
             {/* Initial Image */}
             <img
-              src="/Images/profile-pic__1_-removebg-preview.png" // Initial image
+              src="src/assets/profile-pic__1_-removebg-preview.png" // Initial image
               alt="Sanidhya Shikhar"
               width="100%"
               height="100%"
@@ -190,7 +190,7 @@ function Home() {
             />
             {/* New Image */}
             <img
-              src="/Images/profile-pic__4_-removebg-preview.png" // New image to replace the old one
+              src="src/assets/profile-pic__4_-removebg-preview.png" // New image to replace the old one
               alt="Sanidhya Shikhar"
               width="100%"
               height="100%"

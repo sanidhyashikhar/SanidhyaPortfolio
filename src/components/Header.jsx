@@ -84,8 +84,8 @@ function Header() {
           <img
             src={
               isHovered
-                ? "/Images/ss-high-resolution-logo-grayscale-transparent.png"
-                : "/Images/ss-high-resolution-logo-transparent.png"
+                ? "src/assets/ss-high-resolution-logo-grayscale-transparent.png"
+                : "src/assets/ss-high-resolution-logo-transparent.png"
             }
             alt="Portfolio"
             style={{

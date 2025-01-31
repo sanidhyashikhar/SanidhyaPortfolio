@@ -25,7 +25,7 @@ function Projects() {
         "Integrated secure APIs for dynamic product management and user authentication, boosting checkout efficiency by 40%.",
       ],
       stack: ["React", "CSS", "JavaScript", "AWS"],
-      image: "/Images/Screenshot (65).png", // Replace with your actual image path
+      image: "src/assets/Screenshot (65).png", // Replace with your actual image path
       url: "http://medstore-v1.0.s3-website-us-east-1.amazonaws.com/", // URL for the project website
     },
     {
@@ -37,7 +37,7 @@ function Projects() {
         "The app has a color theme feature applied which changes global primary and secondary color using Context API",
       ],
       stack: ["HTML", "CSS", "JavaScript", "FireBase", "AWS"],
-      image: "/Images/Screenshot (66).png", // Replace with your actual image path
+      image: "src/assets/Screenshot (66).png", // Replace with your actual image path
       url: "http://convonext-v1.0.s3-website-us-east-1.amazonaws.com/", // URL for the project website
     },
     {
@@ -49,7 +49,7 @@ function Projects() {
         "Implemented robust user authentication, enhancing data security and personalized analytics.",
       ],
       stack: ["HTML", "TailwindCSS", "JavaScript", "AWS"],
-      image: "/Images/Screenshot (67).png", // Replace with your actual image path
+      image: "src/assets/Screenshot (67).png", // Replace with your actual image path
       url: "http://medlogistics-v1.0.s3-website-us-east-1.amazonaws.com/", // URL for the project website
     },
   ];
